@@ -14,3 +14,4 @@ Now running the code is simple. Just provide the image name (without any extensi
 Example: java GeneticAlgorithm my_image
 i am appending this text to modify this file
 i am appending this text to modify this file again 
+i am appending this text to modify this file again and again
