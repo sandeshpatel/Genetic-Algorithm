@@ -15,3 +15,4 @@ Example: java GeneticAlgorithm my_image
 i am appending this text to modify this file
 i am appending this text to modify this file again 
 i am appending this text to modify this file again and again
+hellow once agatin
